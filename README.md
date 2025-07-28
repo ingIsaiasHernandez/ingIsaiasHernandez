@@ -3,13 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-hernandez-gomez)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingIsaiasHernandez)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portfolio-isaias.netlify.app)  
-📧 ing.isaias.hdez@gmail.com | 📱 +55 331 712 4726
-
+📧 ing.isaias.hdez@gmail.com 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy Desarrollador **Full Stack** especializado en **React**, **Next.js** y **Firebase**. Me apasiona crear interfaces modernas y optimizadas, siempre integrando buenas prácticas de **UI/UX** y metodologías ágiles para entregar aplicaciones web completas, escalables y con excelente experiencia de usuario.
+Soy Desarrollador **Full Stack** especializado en **React**, **Next.js**, **Firebase**, **Node**, **Express** y **Mongodb** . Me apasiona crear interfaces modernas y optimizadas, siempre integrando buenas prácticas de **UI/UX** y metodologías ágiles para entregar aplicaciones web completas, escalables y con excelente experiencia de usuario.
 
 ---
 
@@ -19,7 +18,7 @@ Soy Desarrollador **Full Stack** especializado en **React**, **Next.js** y **Fir
 React · Next.js · Redux · Tailwind CSS · JavaScript (ES6+) · HTML5 · CSS3
 
 ### Backend
-Firebase (Auth, Firestore, Storage)
+Firebase (Auth, Firestore, Storage), Node, Express y Mongodb.
 
 ### Herramientas
 Git · Unix/Bash · VirtualBox · Debug en GNU/Linux
@@ -63,13 +62,6 @@ Marzo 2017 – Noviembre 2019
 
 - Certificado en Desarrollo Web Full Stack – Academlo (Oct 2022 – Mar 2023)  
 - Ingeniería en Mecatrónica – Universidad Politécnica ZMG (2013 – 2016)  
-
----
-
-## 🌐 Idiomas
-
-- Español (Nativo)  
-- Inglés (A2)
 
 ---
 
